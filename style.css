@@ -52,10 +52,10 @@ html::-webkit-scrollbar{
 #home{
     width: 80%;
     height: 70vh;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./he.png);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./bc3.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 60%;
+    background-position: 80%;
     font-family: 'Roboto', sans-serif;
 }
 .content{
